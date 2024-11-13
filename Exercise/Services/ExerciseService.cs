@@ -14,11 +14,11 @@ public class ExerciseService
 
     public void AddExerciseEntry()
     {
-        AnsiConsole.Markup("Add new exercise");
-        string nameExercise = _userInput.InputExerciseName();
-        DateTime dateStart = _userInput.InputDateStart();
-        DateTime dateEnd = _userInput.InputDateEnd();
-        TimeSpan duration = _userInput.InputDuration();
-        string comments = _userInput.InputComment();
+        AnsiConsole.Markup("Add new exercise\n");
+        var (DateStart, DateEnd, Duration, Comments) = _userInput.GetInputExercise();
+
+        ExerciseItem newExerciseEntry = new ExerciseItem { DateStart = DateStart, DateEnd = DateEnd, Duration = Duration.ToString(), Comments = Comments};
+
+        _exerciseRepository.Add(newExerciseEntry);
     }
 }

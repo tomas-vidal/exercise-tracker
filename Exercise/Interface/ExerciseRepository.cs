@@ -14,6 +14,7 @@ public class ExerciseRepository<T> : IExerciseRepository<T> where T : class
     public void Add(T entity)
     {
         _dbSet.Add(entity);
+        _context.SaveChanges();
     }
 
     public void Delete(T entity)
