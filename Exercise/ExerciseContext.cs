@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Exercise
 {
-    internal class ExerciseContext : DbContext
+    public class ExerciseContext : DbContext
     {
         public DbSet<ExerciseItem> Exercises { get; set; }
 

@@ -41,11 +41,13 @@ public class MainMenu
                 case Choice.AddExerciseEntry:
                     exerciseController.AddExercise();
                     break;
+                case Choice.ViewAllExerciseEntry:
+                    exerciseController.ViewExercises();
+                    break;
                 case Choice.DeleteExerciseEntry:
+                    exerciseController.DeleteExercise();
                     break;
                 case Choice.UpdateExerciseEntry:
-                    break;
-                case Choice.ViewAllExerciseEntry:
                     break;
                 case Choice.Quit:
                     break;

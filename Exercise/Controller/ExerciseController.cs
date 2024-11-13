@@ -19,5 +19,15 @@ namespace Controller
         {
             _exerciseService.AddExerciseEntry();
         }
+
+        internal void DeleteExercise()
+        {
+            _exerciseService.DeleteExerciseEntry();
+        }
+
+        internal void ViewExercises()
+        {
+            _exerciseService.ViewAllExercisesEntries();
+        }
     }
 }
