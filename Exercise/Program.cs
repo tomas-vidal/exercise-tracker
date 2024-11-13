@@ -1,13 +1,12 @@
 ﻿using Exercise;
 using System.Diagnostics;
-
-
+using Spectre.Console;
 
 //using (var context = new ExerciseContext())
 //{
 //    Console.WriteLine("Welcome to exercise tracker app, what do you want to do?");
 //    Console.WriteLine("1 - To add new exercise");
-   
+
 //    var grd1 = new ExerciseItem() { Comments = "DSA", DateStart = new DateTime(), DateEnd = new DateTime(), Duration = new TimeSpan() };
 
 //    var exerciseRepository = new ExerciseRepository<ExerciseItem>(context);
@@ -16,3 +15,6 @@ using System.Diagnostics;
 
 //    Console.WriteLine($"{context.Exercises}");
 //}
+
+MainMenu.StartMenu();
+

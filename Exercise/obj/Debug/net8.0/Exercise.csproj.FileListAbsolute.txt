@@ -128,3 +128,9 @@ C:\Users\Tomas\source\repos\Exercise\Exercise\obj\Debug\net8.0\refint\Exercise.d
 C:\Users\Tomas\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.pdb
 C:\Users\Tomas\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.genruntimeconfig.cache
 C:\Users\Tomas\source\repos\Exercise\Exercise\obj\Debug\net8.0\ref\Exercise.dll
+C:\Users\Tomas\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.sourcelink.json
+C:\Users\Tomas\source\repos\Exercise\Exercise\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Tomas\source\repos\Exercise\Exercise\bin\Debug\net8.0\Spectre.Console.Cli.dll
+C:\Users\Tomas\source\repos\Exercise\Exercise\bin\Debug\net8.0\de\Spectre.Console.Cli.resources.dll
+C:\Users\Tomas\source\repos\Exercise\Exercise\bin\Debug\net8.0\fr\Spectre.Console.Cli.resources.dll
+C:\Users\Tomas\source\repos\Exercise\Exercise\bin\Debug\net8.0\sv\Spectre.Console.Cli.resources.dll
