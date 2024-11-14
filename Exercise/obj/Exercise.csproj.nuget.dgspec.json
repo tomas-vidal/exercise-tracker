@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomás\\Documents\\Github\\exercise-tracker\\Exercise\\Exercise.csproj": {}
+    "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomás\\Documents\\Github\\exercise-tracker\\Exercise\\Exercise.csproj": {
+    "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomás\\Documents\\Github\\exercise-tracker\\Exercise\\Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "C:\\Users\\Tomás\\Documents\\Github\\exercise-tracker\\Exercise\\Exercise.csproj",
-        "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomás\\Documents\\Github\\exercise-tracker\\Exercise\\obj\\",
+        "projectPath": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Exercise.csproj",
+        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

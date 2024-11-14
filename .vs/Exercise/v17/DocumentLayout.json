@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\",
+  "WorkspaceRootPath": "C:\\Users\\Tomas\\source\\repos\\Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tom\u00E1s\\documents\\github\\exercise-tracker\\exercise\\services\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\services\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tom\u00E1s\\documents\\github\\exercise-tracker\\exercise\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tomas\\source\\repos\\exercise\\exercise\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tom\u00E1s\\documents\\github\\exercise-tracker\\exercise\\controller\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\controller\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tomas\\source\\repos\\exercise\\exercise\\services\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\services\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tom\u00E1s\\documents\\github\\exercise-tracker\\exercise\\exercisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\exercisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tom\u00E1s\\documents\\github\\exercise-tracker\\exercise\\interface\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tomas\\source\\repos\\exercise\\exercise\\interface\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tom\u00E1s\\documents\\github\\exercise-tracker\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tomas\\source\\repos\\exercise\\exercise\\controller\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\controller\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tom\u00E1s\\documents\\github\\exercise-tracker\\exercise\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tomas\\source\\repos\\exercise\\exercise\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tomas\\source\\repos\\exercise\\exercise\\exercisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\exercisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|c:\\users\\tomas\\source\\repos\\exercise\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1F94B1-3CD8-4DC8-8587-D3BC61A3EACD}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ExerciseContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\ExerciseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\ExerciseContext.cs",
               "RelativeDocumentMoniker": "Exercise\\ExerciseContext.cs",
-              "ToolTip": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\ExerciseContext.cs",
+              "ToolTip": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\ExerciseContext.cs",
               "RelativeToolTip": "Exercise\\ExerciseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T22:39:44.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ExerciseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Interface\\ExerciseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Interface\\ExerciseRepository.cs",
               "RelativeDocumentMoniker": "Exercise\\Interface\\ExerciseRepository.cs",
-              "ToolTip": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Interface\\ExerciseRepository.cs",
+              "ToolTip": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Interface\\ExerciseRepository.cs",
               "RelativeToolTip": "Exercise\\Interface\\ExerciseRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCsAAAAWAAAA",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T22:25:19.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ExerciseService.cs",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Services\\ExerciseService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Services\\ExerciseService.cs",
               "RelativeDocumentMoniker": "Exercise\\Services\\ExerciseService.cs",
-              "ToolTip": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Services\\ExerciseService.cs",
+              "ToolTip": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Services\\ExerciseService.cs",
               "RelativeToolTip": "Exercise\\Services\\ExerciseService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwDkAAAA9AAAA",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwGAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T17:15:38.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\MainMenu.cs",
               "RelativeDocumentMoniker": "Exercise\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\MainMenu.cs",
               "RelativeToolTip": "Exercise\\MainMenu.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvyIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T16:37:41.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserInput.cs",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\UserInput.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\UserInput.cs",
               "RelativeDocumentMoniker": "Exercise\\UserInput.cs",
-              "ToolTip": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\UserInput.cs",
+              "ToolTip": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\UserInput.cs",
               "RelativeToolTip": "Exercise\\UserInput.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAewEQAAAAMAAAA",
+              "ViewState": "AgIAADIAAAAAAAAAAAAewEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T15:58:37.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ExerciseController.cs",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Controller\\ExerciseController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Controller\\ExerciseController.cs",
               "RelativeDocumentMoniker": "Exercise\\Controller\\ExerciseController.cs",
-              "ToolTip": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Controller\\ExerciseController.cs",
+              "ToolTip": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Controller\\ExerciseController.cs",
               "RelativeToolTip": "Exercise\\Controller\\ExerciseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T15:49:49.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Program.cs",
               "RelativeDocumentMoniker": "Exercise\\Program.cs",
-              "ToolTip": "C:\\Users\\Tom\u00E1s\\Documents\\Github\\exercise-tracker\\Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Tomas\\source\\repos\\Exercise\\Exercise\\Program.cs",
               "RelativeToolTip": "Exercise\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:01:11.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:01:11.015Z"
             }
           ]
         }

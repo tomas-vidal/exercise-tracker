@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercise
-build_property.ProjectDir = C:\Users\Tomás\Documents\Github\exercise-tracker\Exercise\
+build_property.ProjectDir = C:\Users\Tomas\source\repos\Exercise\Exercise\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

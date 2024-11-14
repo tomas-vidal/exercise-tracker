@@ -48,9 +48,10 @@ public class MainMenu
                     exerciseController.DeleteExercise();
                     break;
                 case Choice.UpdateExerciseEntry:
+                    exerciseController.UpdateExercise();
                     break;
                 case Choice.Quit:
-                    break;
+                    return;
             }
         }
     }
