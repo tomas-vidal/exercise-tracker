@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 public class UserInput
 {
@@ -56,5 +57,17 @@ public class UserInput
         var stringInput = "";
         stringInput = AnsiConsole.Prompt(new TextPrompt<string>("Write a comment if you want: "));
         return stringInput;
+    }
+
+    internal int GetInputId(int[] ids)
+    {
+        var stringInput = "";
+        int integer;
+        stringInput = AnsiConsole.Prompt(new TextPrompt<string>("Id: "));
+        while (!int.TryParse(stringInput, out integer) || !ids.Contains(integer))
+        {
+            stringInput = AnsiConsole.Prompt(new TextPrompt<string>("Invalid input, please try again: "));
+        }
+        return integer;
     }
 }

@@ -25,15 +25,37 @@ public class ExerciseService
     internal void DeleteExerciseEntry()
     {
         List<ExerciseItem> listOfEntries = _exerciseRepository.GetAll();
+        int[] listOfIds = listOfEntries.Select(entry => entry.Id).ToArray();
 
-        var deleteEntry = AnsiConsole.Prompt(
-            new SelectionPrompt<ExerciseItem>()
-            .Title("Select the exercise you want to delete: ")
-            .AddChoices(listOfEntries));
+        var grid = new Grid();
+        grid.AddColumn();
+        grid.AddColumn();
+        grid.AddColumn();
+        grid.AddColumn();
+        grid.AddColumn();
+        grid.AddRow(new Text[] {
+            new Text("Id"),
+            new Text("Date Start"),
+            new Text("Date End"),
+            new Text("Duration"),
+            new Text("Comments"),
+        });
 
-        _exerciseRepository.Delete(deleteEntry);
+        foreach (ExerciseItem entry in listOfEntries)
+        {
+            grid.AddRow(new Text[] {
+                new Text(entry.Id.ToString()),
+                new Text(entry.DateStart.ToString()),
+                new Text(entry.DateEnd.ToString()),
+                new Text(entry.Duration),
+                new Text(entry.Comments)
+            });
+        }
 
-        AnsiConsole.Markup("[green]Successfully deleted \n");
+        AnsiConsole.Write(grid);
+        int IdToDelete = _userInput.GetInputId(listOfIds);
+        _exerciseRepository.Delete(IdToDelete);        
+        AnsiConsole.Write("\n[green]Successfully deleted \n\n");
         MainMenu.StartMenu();
     }
 
@@ -47,16 +69,19 @@ public class ExerciseService
         grid.AddColumn();
         grid.AddColumn();
         grid.AddColumn();
+        grid.AddColumn();
         grid.AddRow(new Text[] {
+            new Text("Id"),
             new Text("Date Start"),
             new Text("Date End"),
             new Text("Duration"),
-            new Text("Comments")
+            new Text("Comments"),
         });
 
         foreach (ExerciseItem entry in listOfEntries)
         {
-            grid.AddRow(new Text[] { 
+            grid.AddRow(new Text[] {
+                new Text(entry.Id.ToString()),
                 new Text(entry.DateStart.ToString()),
                 new Text(entry.DateEnd.ToString()),
                 new Text(entry.Duration),

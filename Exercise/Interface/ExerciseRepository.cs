@@ -18,10 +18,15 @@ public class ExerciseRepository<T> : IExerciseRepository<T> where T : class
         _context.SaveChanges();
     }
 
-    public void Delete(T entity)
+    public void Delete(int id)
     {
-        _dbSet.Remove(entity);
-        _context.SaveChanges();
+        T entryToDelete = _dbSet.Find(id);
+        if(entryToDelete != null)
+        {
+            _dbSet.Remove(entryToDelete);
+            _context.SaveChanges();
+        } 
+
     }
     public List<T> GetAll()
     {
@@ -36,7 +41,7 @@ public class ExerciseRepository<T> : IExerciseRepository<T> where T : class
 public interface IExerciseRepository<T>
 {
     void Add(T entity);
-    void Delete(T entity);
+    void Delete(int id);
     List<T> GetAll();
     void Save();
 
